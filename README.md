@@ -1,2 +1,2 @@
 # problems
-practice data structure and algorithms problems
+Practice data structure and algorithms problems
